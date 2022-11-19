@@ -6,8 +6,3 @@ Create a custom document root folder for the new Apache VirtualHost and set up a
 Enable the new Apache VirtualHost.
 Disable the default Apache website when the variable disable_default is set to true.
 Set up UFW to allow HTTP traffic on the configured port (80 by default)
-
-ls
-pwd
-ls -ltr
-cp file1 file2
