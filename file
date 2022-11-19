@@ -1,4 +1,7 @@
-ls[D[C
+ls
 pwd
 ls -ltr
 ps -ef
+useradd siddana
+date
+cal
