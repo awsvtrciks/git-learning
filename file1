@@ -1,2 +1,6 @@
 grep "newfile"
 find "newfile"
+ls
+wc
+cal
+date
